@@ -1,0 +1,16 @@
+const { get, post, put, delete1} = require("../controllers/adminController")
+const { Router } = require("express")
+//requiring and setting up multer 
+const upload = require('../utils/multer')
+const authentication=require("../middlewares/adminAuthentication")
+const router = Router()
+router.get("/orders",authentication,get.orders_from_users)
+router.post("/admin/register",post.register_user)
+router.post("/admin/login",post.login_admin)
+router.post("/admin/addproducts",authentication,upload.array("product_img",4),post.add_product)
+router.post("/admin/addpreciseproductdetail",authentication,post.add_product_precise_details)
+router.post("/admin/addproductcolor/:sizeID",authentication,post.add_products_clr_quantity)
+// router.patch("/admin/editProducts/:productId",patch.edit_product)
+// router.delete("/admin/deleteProduct/:productId",patch.delete_product)
+router.delete("/admin/logout/:adminToken",delete1.logout_admin)
+module.exports=router
