@@ -18,7 +18,7 @@ Users:
 5.	Verify sms OTP
 6.	Google Sign in
 7.	Facebook sign in
-8.	Products view to users by filteration and search
+8.	Products can be view to users by filteration and search
 9.	Product details and reviews added by users
 10.	Products can be add by user in cart and can see the products and change the quantity of the products in cart page
 11.	Post reviews for the products by users
