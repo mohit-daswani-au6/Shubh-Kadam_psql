@@ -1,6 +1,6 @@
  Shubh Kadam Psql
-The objective of this website is to make a E-commerce website to sell shoes from my real life showroom ShubhKadam
-ShubhKadam is a website which is easy to use by customers to buy products from our showroom. There are two different panels one is for users who can buy products and second is admin who can add products and look on to orders of the customers.
+The objective of this website is to make a E-commerce website to sell shoes from my showroom ShubhKadam
+ShubhKadam is a website which is easy to use by customers to buy products from our showroom. There are two different panels one is for users who can buy products and second is admin who can add products and look on to the orders of the customers.
 Why did we choose to work on this?
 We choose this project because we wanted to explore our knowledge and to apply a real time application. I wanted to make an online E-commerce website to sell my showroom’s shoes.  Building this application helped us to cover all the technologies we have learned so far.
 Websites:
@@ -18,8 +18,8 @@ Users:
 7.	Facebook sign in
 8.	Products view to users by filteration and search
 9.	Product details and reviews added by users
-10.	Products added by user to cart and watch products in cart and change the quantity of the products in cart page
-11.	Post reviews to the products by users
+10.	Products can be add by user in cart and can see the products and change the quantity of the products in cart page
+11.	Post reviews for the products by users
 12.	Generate orders for the particular order by giving the address of the delivery
 13.	Razor pay success
 Admins:
@@ -29,7 +29,7 @@ Admins:
 4.	Admin can view orders which users has placed
 Technologies Used:
 Backend
-1.	Node.js
+1.	NodeJs
 2.	Express
 3.	Mongoose
 4.	Cloudinary 
@@ -51,6 +51,7 @@ ElephantSQL
 MongoDB Atlas
 Heroku
 Cloudinary
+
 Future Scope of Improvement
 Google maps
 Watson IBM (chatbot)
