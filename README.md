@@ -9,6 +9,7 @@ MongoDB API Website :- shubh-kadam.herokuapp.com
 PostgreSQL API Website :- shubh-kadam-psql.herokuapp.com
 
 Features Implemented in Projects:
+
 Users:
 1.	Login and Signup
 2.	Logout
@@ -23,12 +24,15 @@ Users:
 11.	Post reviews for the products by users
 12.	Generate orders for the particular order by giving the address of the delivery
 13.	Razor pay success
+
 Admins:
 1.	Login and Signup
 2.	Logout
 3.	Add products in the applications
 4.	Admin can view orders which users has placed
+
 Technologies Used:
+
 Backend
 1.	NodeJs
 2.	Express
@@ -47,6 +51,7 @@ Backend
 15.	Multer
 16.	BcryptJs
 17.	Authy(Twillo)
+
 Cloud Platform
 ElephantSQL
 MongoDB Atlas
@@ -54,8 +59,12 @@ Heroku
 Cloudinary
 
 Future Scope of Improvement
+
 Google maps
+
 Watson IBM (chatbot)
+
 Google Recaptcha
+
 And will complete full application
 
