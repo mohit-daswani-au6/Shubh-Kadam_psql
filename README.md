@@ -4,8 +4,11 @@ The objective of this website is to make a E-commerce website to sell shoes from
 ShubhKadam is a website which is easy to use by customers to buy products from our showroom. There are two different panels one is for users who can buy products and second is admin who can add products and look on to the orders of the customers.
 Why did we choose to work on this?
 We choose this project because we wanted to explore our knowledge and to apply a real time application. I wanted to make an online E-commerce website to sell my showroom’s shoes.  Building this application helped us to cover all the technologies we have learned so far.
+
 Websites:
+
 MongoDB API Website :- shubh-kadam.herokuapp.com
+
 PostgreSQL API Website :- shubh-kadam-psql.herokuapp.com
 
 Features Implemented in Projects:
